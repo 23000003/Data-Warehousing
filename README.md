@@ -1,46 +1,34 @@
-## Incidents occurring on county and local roadways within Montgomery County.
-**Questions to Answer:** (Not Final)
-1. Which Road or Route does Incidents happen in the County.
-2. What type, time, day and weather of incident does it always reoccurring in every Road and Route.
-3. What vehicle types are most involved, and their relation to pedestrian injury severity?
-4. What factors determine fault in these incidents, and how often does driver substance abuse play a role?
-5. What is the frequency of incidents in relation of the road and surface conditions?
+## New Topic:
 
-**Should not be broad/general** <br/>
-Unsay naa sa monte <br/>
-Aim on a specific problem on monte <br/>
-Ngano monte gepili <br/>
-specific issue of montege relating to the data <br/>
-pick the highest correlation and make it a topic
+**Our Aim:** <br/>
+1. **Update collision trends**
+  - There exists the 2015-2019 collision trends
+  - We want to update this to 2020 - 2024 collision trends
+<br/>
+
+2. **Gather Vision Zero Installation Data**
+  - alongside the update we want to gather data regarding the installations in relation to the vision zero project
+  - the data gathered will range from 2019 - 2022 (or 2019 -  JAN2023/JUN2023)
+<br/>
+
+**What we Query/Do:** <br/>
+1. **See the correlation between the VZI Data and the updated collision trends**
+  - with the Vision Zero Installation Data and the 2020 - 2024 Collision Trends Data gathered
+  - we want to see if there are any improvements at all
+  - THE COMPARISON WILL BE DONE WITH THE ALREADY COMPLETED INSTALLATIONS 
+  - This will be done in the form of a heat map
+<br/>
+
+**Link:** <br/>
+1. Old Collision Trends: https://www.montgomerycountymd.gov/visionzero/Resources/Files/vz2030-data.pdf
+2. VZI Source To Research: https://www.montgomerycountymd.gov/visionzero/action.html
+     - Scroll Down and Look for <code>Vision Zero Reports</code> and <code>Prior Vision Zero Action and Work Plans</code>
 
 
-## New Topic
 
-### Title:
--- Determining the effectiveness of the Vision Zero Plan (2015-2019)
--- and Providing Updated Data for 2019 - 2024
 
-**We are comparing the existing data which is 2015-2019 made by the county and we are giving them the updated version which is from 2019-2024**
 
-**tldr** 
-1. talks about the future plans of the county to prevent and mitigate road incidents
-2. program officially started in 2017
-3. data comparisons from 2015 to 2019
-4. shows a lot of heat maps and graphs regarding the crashes 
 
-**Our aim**
-1. Basically provide an updated version of the pdf (2019 - 2024)
-2. Data will start from 2019 - 2024
-3. Comparing 2015-2019 of their installations to 2019-2024 if that "cause" lessened the incidents of the county 
-4. Determining new cause (majority) of the accidents, giving detailed analysis
-5. Comparing accident causes between the existing data (2015-2019) to updated data (2019 - 2024)
 
-**what we want to know and what to do**
 
-1. determine if there any improvements
-2. find out the constructions, installations, and etc. that the county has   made in relation to the program (segregate into year)
-3. plot these findings on a map
-4. generate heat maps of the crashes that occurred on the county (segregate into year)
-5. overlap these two by year and see if there are any improvements (ie if zone 1 was red in 2019 
 
-but improvements have been made by each incrementing year which results in zone 1 being less red)
